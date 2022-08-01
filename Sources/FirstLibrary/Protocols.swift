@@ -12,7 +12,7 @@ public protocol TestPr {
 }
 
 extension TestPr {
-    func PrFunc(text: String) {
+    public func PrFunc(text: String) {
         print(text)
     }
 }
