@@ -7,7 +7,7 @@
 
 import Foundation
 
-protocol TestPr {
+public protocol TestPr {
     
 }
 
